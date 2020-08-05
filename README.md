@@ -1,4 +1,4 @@
-### Hi there, I'm Force - aka [forcecodes][website] 👋
+### Henlo fren, I'm [Force Porquillo][website] 👋
 
 ## I'm a Software Engineering Student.
 - 🔭 I’m currently working on a [Kotlin Coroutines][kotlin]!
@@ -34,11 +34,10 @@
 
 <img align="left" alt="Force Codes's Github Stats" src="https://github-readme-stats.vercel.app/api?username=forceporquillo&show_icons=true&hide_border=false" />
 
-<br />
-<br />
-<br />
+--- 
 
----
+<br />
+<br />
 
 [
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forceporquillo&layout=compact)](https://github.com/forceporquillo/github-readme-stats)
