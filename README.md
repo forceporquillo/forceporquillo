@@ -1,7 +1,7 @@
 ### Henlo fren, I'm [Force Porquillo][website] 👋
 
 ## I'm a Software Engineering Student.
-- 🔭 I’m currently working on a [Covid-19 Tracker App][kotlin]!
+- 🔭 I’m currently working on a [Covid-19 Tracker App][app]!
 - 🌱 I’m currently learning Kotlin and Flutter. 📱
 - 👯 I’m looking to collaborate with other open source devs.
 - 🥅 2020 Goals: Contribute more to Open Source projects
