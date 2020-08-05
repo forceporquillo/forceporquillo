@@ -1,9 +1,9 @@
 ### Hi there, I'm Force - aka [forcecodes][website] 👋
 
-## I'm a Software Engineering Student, Mobile Developer, and Teacher!
+## I'm a Software Engineering Student.
 - 🔭 I’m currently working on a [Kotlin Coroutines][kotlin]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning Kotlin and Flutter. 📱
+- 👯 I’m looking to collaborate with other open source devs.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to create mobile softwares
 
@@ -32,7 +32,7 @@
 
 ---
 
-<img align="left" alt="Force Codes's Github Stats" src="https://github-readme-stats.vercel.app/api?username=forceporquillo&show_icons=true&hide_border=true" />
+<img align="left" alt="Force Codes's Github Stats" src="https://github-readme-stats.vercel.app/api?username=forceporquillo&show_icons=true&hide_border=false" />
 
 <br />
 <br />
