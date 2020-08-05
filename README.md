@@ -32,15 +32,10 @@
 
 ---
 
-<img align="left" alt="Force Codes's Github Stats" src="https://github-readme-stats.vercel.app/api?username=forceporquillo&show_icons=true&hide_border=false" />
-
---- 
-
-<br />
-<br />
+<img align="left" alt="Force Codes's Github Stats" src="https://github-readme-stats.vercel.app/api?username=forceporquillo&show_icons=true&hide_border=true" />
 
 [
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forceporquillo&layout=compact)](https://github.com/forceporquillo/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forceporquillo&layout=compact&hide_border=true)](https://github.com/forceporquillo/github-readme-stats)
 
 [website]: https://forcecodes.dev
 [twitter]: https://twitter.com/tito_4s
