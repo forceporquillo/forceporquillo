@@ -1,7 +1,7 @@
 ### Henlo fren, I'm [Force Porquillo][website] 👋
 
 ## I'm a Software Engineering Student.
-- 🔭 I’m currently working on a [Kotlin Coroutines][kotlin]!
+- 🔭 I’m currently working on a [Covid-19 Tracker App][kotlin]!
 - 🌱 I’m currently learning Kotlin and Flutter. 📱
 - 👯 I’m looking to collaborate with other open source devs.
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -41,4 +41,4 @@
 [twitter]: https://twitter.com/tito_4s
 [instagram]: https://instagram.com/strongforce1/
 [linkedin]: https://linkedin.com/in/https://www.linkedin.com/in/aljan-porquillo-7567431a0/
-[kotlin]: https://kotlinlang.org/]https://kotlinlang.org/
+[app]: https://github.com/forceporquillo/android-covid19-tracker
