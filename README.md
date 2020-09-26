@@ -1,7 +1,7 @@
 
 ### Henlo fren, I'm **Force** 👋
 
- I'm a Software Engineering Student who has a passion for creating mobile applications. Currently, I'm in the realm of native mobile development particularly in android development.
+ I'm a Software Engineering Student who has a passion for creating mobile applications. Currently, I'm in the realm of native mobile development particularly in android.
 
 - 🔭 I’m currently working on a [TracePinas App][app]!
 - 🌱 I’m currently learning Swift Xcode. 📱
