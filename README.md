@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Swift Xcode. 📱
 - 👯 I’m looking to collaborate with other open source devs.
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to create mobile softwares
+- ⚡ Fun fact: I love to create mobile applications
 
 ![](https://komarev.com/ghpvc/?username=forceporquillo&label=PROFILE+VIEWS)
 
