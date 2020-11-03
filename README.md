@@ -1,7 +1,7 @@
 
 ### Henlo fren, I'm **Force** 👋
 
- I'm a Software Engineering Student who has a passion for creating mobile applications. Currently, I'm in the realm of native mobile development particularly in android.
+ I'm a Software Engineering Student who has a passion for creating mobile applications. Currently, I'm in the realm of native mobile development, particularly in android.
 
 - 🔭 I’m currently working on a [Movie App][app]!
 - 🌱 I’m currently learning Swift Xcode. 📱
@@ -14,9 +14,9 @@
 ## Contributions
 ![Force's github stats](https://github-readme-stats.vercel.app/api?username=forceporquillo&show_icons=true&theme=default)
 
-## Stacks
+<!---## Stacks
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forceporquillo)](https://github.com/forceporquillo/forceporqullo)
-
+-->
 <!---
 ### Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
