@@ -11,9 +11,6 @@
 
 ![](https://komarev.com/ghpvc/?username=forceporquillo&label=PROFILE+VIEWS)
 
-## Contributions
-![Force's github stats](https://github-readme-stats.vercel.app/api?username=forceporquillo&show_icons=true&theme=default)
-
 <!---## Stacks
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forceporquillo)](https://github.com/forceporquillo/forceporqullo)
 -->
