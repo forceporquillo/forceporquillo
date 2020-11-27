@@ -1,13 +1,7 @@
 
 ### Henlo fren, I'm **Force** 👋
 
- I'm a Software Engineering Student who has a passion for creating mobile applications. Currently, I'm in the realm of native mobile development, particularly in android.
-
-- 🔭 I’m currently working on a [Movie App][app]!
-- 🌱 I’m currently learning Swift Xcode. 📱
-- 👯 I’m looking to collaborate with other open source devs.
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to create mobile applications
+ I'm a Software Engineering Student who has a passion for creating mobile applications. Currently, I'm in the realm of native mobile development, particularly in native Android.
 
 ![](https://komarev.com/ghpvc/?username=forceporquillo&label=PROFILE+VIEWS)
 
