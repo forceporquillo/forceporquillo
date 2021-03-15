@@ -1,14 +1,14 @@
 
 ### Henlo fren, I'm **Force** 👋
 
- I'm a Software Engineering Student who has a passion for creating mobile applications. Currently, I'm in the realm of native mobile development, particularly in native Android.
+ I'm a Software Engineering Student who has a passion in creating mobile applications. Currently, I'm in the realm of native mobile development, particularly in Android.
 
 ![](https://komarev.com/ghpvc/?username=forceporquillo&label=PROFILE+VIEWS)
 
-<!---## Stacks
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forceporquillo)](https://github.com/forceporquillo/forceporqullo)
--->
-<!---
+<!-- ## Stacks -->
+<!--
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forceporquillo)](https://github.com/forceporquillo/forceporqullo) -->
+<!--
 ### Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
