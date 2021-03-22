@@ -1,7 +1,7 @@
 
 ### Henlo fren, I'm **Force** 👋
 
- I'm a Software Engineering Student who has a passion in creating mobile applications. Currently, I'm in the realm of native mobile development, particularly in Android.
+ I'm a Software Engineering Student who has a passion in creating mobile applications. Currently, I'm in the realm of mobile development, particularly in native Android.
 
 ![](https://komarev.com/ghpvc/?username=forceporquillo&label=PROFILE+VIEWS)
 
