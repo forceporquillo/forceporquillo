@@ -3,6 +3,8 @@
 
  I'm a Software Engineering Student who has a passion in creating mobile applications. Currently, I'm in the realm of mobile development, particularly in native Android.
 
+<img src="http://images.ctfassets.net/3cttzl4i3k1h/4W61E6tS3geVEubfUr4sh0/56f19e2386b9d26da4170a7fb270de2f/swift-kotlin_2x.jpg" alt="">
+
 ![](https://komarev.com/ghpvc/?username=forceporquillo&label=PROFILE+VIEWS)
 
 <!-- ## Stacks -->
